@@ -88,6 +88,8 @@
           - BanqueServicePort: Définit le port du service, qui est lié à BanqueServicePortBinding.
             
           - L'adresse du service est http://localhost:9090/.
+
+            
    
 5. Teste des opérations du web service avec un outil comme SoapUI ou Oxygen :
    
