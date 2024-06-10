@@ -66,20 +66,27 @@
           - BanqueService: Définit trois opérations disponibles sur le service :
             
                - getCompte: Récupération d'un compte.
+                 
                - listComptes: Liste des comptes.
+                 
                - ConversionEuroToDH: Conversion de l'euro au dirham.
+                 
           - Chaque opération a des messages d'entrée et de sortie définis.
             
      - Binding :
 
           - BanqueServicePortBinding: Spécifie comment les opérations du service sont liées au protocole SOAP.
+            
                - Utilise le transport HTTP pour SOAP.
+                 
                - Chaque opération utilise un style "document" et un "literal" encoding pour les messages.
             
      - Service :
      
           - BanqueWS: Définit le service web.
+            
           - BanqueServicePort: Définit le port du service, qui est lié à BanqueServicePortBinding.
+            
           - L'adresse du service est http://localhost:9090/.
    
 5. Teste des opérations du web service avec un outil comme SoapUI ou Oxygen :
