@@ -35,6 +35,9 @@ les valeurs de montants :
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/c37229d4-c98f-42e7-89fc-f1e30df10b37)
 
 
+generation du proxy : 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/370cdb05-f5a0-4df9-96bd-245d4794fe7d)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/370cdb05-f5a0-4df9-96bd-245d4794fe7d)
 
 
 
