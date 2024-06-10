@@ -15,4 +15,8 @@ ServerJWS:
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/f2ae38b9-d37e-4f6f-93d5-455b5310ea71)
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/6fee4002-e218-4bf6-88ee-f4f96274126e)
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/98495054-54eb-4401-a8fc-f5bfec0c209f)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/0ff89fcb-e5e5-4ed2-99e5-2e5b81457df1)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/2284b58c-1e63-4678-a4a4-db92a1b19c29)
+
+
 
