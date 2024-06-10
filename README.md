@@ -116,10 +116,15 @@
 7. Créer un Client SOAP Java :
    
       - Générer le Stub à partir du WSDL :
+
+         Dans le projet, nous avons créé un module intitulé : client-soap-java :
+        
+           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/bb949d05-f5b0-47db-9e61-c5c66ccebfe1)
+
         
           Génération du proxy :
 
-          ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/64e9b7b9-2be8-4c34-8119-42e85aa5bad2)
+           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/64e9b7b9-2be8-4c34-8119-42e85aa5bad2)
           
       - Créer un client SOAP pour le web service
 
