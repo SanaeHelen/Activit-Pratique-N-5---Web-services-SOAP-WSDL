@@ -1,19 +1,32 @@
 # Activit-Pratique-N-5---Web-services-SOAP-WSDL
 
-1. Créer un Web service qui permet de :
+1. Création d'un we service  :
+     Tout d'abord, nous avons créé un projet Java avec IntelliJ. Dans le répertoire Java, nous avons créé le package `ws`, dans lequel nous avons défini deux classes : la classe `Compte` et la classe `BanqueService`.
+   
 
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/9dba1f8a-33ae-48c4-a44d-82aa7effdc27)
-![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/a139892c-6f97-43e2-8341-827e2ac35b45)
-![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/c74c7884-ca95-45be-a064-0328823d6cdb)
 
- • Convertir un montant de l’euro en DH : 
+
+   - La classe Compte :
+     
+     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/a139892c-6f97-43e2-8341-827e2ac35b45)
+     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/c74c7884-ca95-45be-a064-0328823d6cdb)
+
+   - La classe BanqueService :
+       Dans la classe `BanqueService`, nous avons créé les méthodes suivantes :
+
+     
+     • Convertir un montant de l’euro en DH :
+     
         ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/0b3c12a1-5a5b-4971-83cf-fc1466247348)
 
- • Consulter un Compte 
-    ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/cd6b3d52-c8a0-46fd-a40f-fd58ad726eb3)
+     • Consulter un Compte :
+     
+       ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/cd6b3d52-c8a0-46fd-a40f-fd58ad726eb3)
 
- • Consulter une Liste de comptes : 
-    ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/6aceed36-e610-41de-be0e-ea66f30e69b0)
+     • Consulter une Liste de comptes :
+     
+       ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/6aceed36-e610-41de-be0e-ea66f30e69b0)
 
 3. Déployer le Web service avec un simple Serveur JaxWS
 4. Consulter et analyser le WSDL avec un Browser HTTP
