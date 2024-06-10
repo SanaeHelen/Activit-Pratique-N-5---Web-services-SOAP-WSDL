@@ -20,3 +20,34 @@ ServerJWS:
 
 
 
+apres avoir installer soapIU  nous avons creee un projet : 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/eca728d9-112b-4795-b324-ab742e3cb457)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/a1461381-3b6c-4e73-a33c-b26d3d6b18eb)
+
+les valeurs de montants : 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/efef1bd0-63f1-4777-b31a-6d4fb9805273)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/23d084e0-be48-4424-80a8-0f9eeeb946bd)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/a306cb46-8a6e-4091-8d8f-bd1612ee4f7b)
+
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/80e261f8-ef26-43f6-a033-c47c77bd2ec1)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/0ec735e4-bc18-480d-882d-b03f6d39cc82)
+
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/c37229d4-c98f-42e7-89fc-f1e30df10b37)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
