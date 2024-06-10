@@ -9,3 +9,10 @@
 5. Créer un Client SOAP Java
       - Générer le Stub à partir du WSDL
       - Créer un client SOAP pour le web service
+
+
+ServerJWS: 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/f2ae38b9-d37e-4f6f-93d5-455b5310ea71)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/6fee4002-e218-4bf6-88ee-f4f96274126e)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/98495054-54eb-4401-a8fc-f5bfec0c209f)
+
