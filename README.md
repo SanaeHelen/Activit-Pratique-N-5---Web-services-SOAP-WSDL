@@ -1,12 +1,24 @@
 # Activit-Pratique-N-5---Web-services-SOAP-WSDL
 
-1. Créer un Web service qui permet de : • Convertir un montant de l’euro en DH
-    • Consulter un Compte
-    • Consulter une Liste de comptes
-2. Déployer le Web service avec un simple Serveur JaxWS
-3. Consulter et analyser le WSDL avec un Browser HTTP
-4. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen
-5. Créer un Client SOAP Java
+1. Créer un Web service qui permet de :
+
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/9dba1f8a-33ae-48c4-a44d-82aa7effdc27)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/a139892c-6f97-43e2-8341-827e2ac35b45)
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/c74c7884-ca95-45be-a064-0328823d6cdb)
+
+ • Convertir un montant de l’euro en DH : 
+        ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/0b3c12a1-5a5b-4971-83cf-fc1466247348)
+
+ • Consulter un Compte 
+    ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/cd6b3d52-c8a0-46fd-a40f-fd58ad726eb3)
+
+ • Consulter une Liste de comptes : 
+    ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/6aceed36-e610-41de-be0e-ea66f30e69b0)
+
+3. Déployer le Web service avec un simple Serveur JaxWS
+4. Consulter et analyser le WSDL avec un Browser HTTP
+5. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen
+6. Créer un Client SOAP Java
       - Générer le Stub à partir du WSDL
       - Créer un client SOAP pour le web service
 
@@ -40,7 +52,9 @@ generation du proxy :
 ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/370cdb05-f5a0-4df9-96bd-245d4794fe7d)
 
 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/64e9b7b9-2be8-4c34-8119-42e85aa5bad2)
 
+![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/49a1e0ac-12a9-4cfa-84ed-571d0aadf1df)
 
 
 
