@@ -4,7 +4,7 @@
      Tout d'abord, nous avons créé un projet Java avec IntelliJ. Dans le répertoire Java, nous avons créé le package `ws`, dans lequel nous avons défini deux classes : la classe `Compte` et la classe `BanqueService`.
    
 
-![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/9dba1f8a-33ae-48c4-a44d-82aa7effdc27)
+     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/9dba1f8a-33ae-48c4-a44d-82aa7effdc27)
 
 
    - La classe Compte :
@@ -40,8 +40,49 @@
     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/98495054-54eb-4401-a8fc-f5bfec0c209f)
     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/0ff89fcb-e5e5-4ed2-99e5-2e5b81457df1)
     ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/2284b58c-1e63-4678-a4a4-db92a1b19c29)
+
+    Ce fichier XML est une définition WSDL (Web Services Description Language) pour le service web "BanqueWS". Voici une analyse en bref des principaux composants de ce fichier :
+     
+     - En-tête et Métadonnées :
+     
+         - Le fichier est généré par XML-WS Runtime version 4.0.2.
+           
+         - Il utilise plusieurs espaces de noms (namespaces) pour la sécurité, les politiques web, l'adressage, le schéma XML, et les spécifications WSDL.
+           
+     - Types :
+     
+         - Définit un schéma XML (xsd:schema) qui importe un autre schéma situé à http://localhost:9090/?xsd=1.
+           
+     - Messages :
+     
+          - getCompte et getCompteResponse: Messages pour l'opération de récupération d'un compte.
+            
+          - listComptes et listComptesResponse: Messages pour l'opération de liste des comptes.
+            
+          - ConversionEuroToDH et ConversionEuroToDHResponse: Messages pour l'opération de conversion de l'euro au dirham.
+            
+     - PortType :
+     
+          - BanqueService: Définit trois opérations disponibles sur le service :
+            
+               - getCompte: Récupération d'un compte.
+               - listComptes: Liste des comptes.
+               - ConversionEuroToDH: Conversion de l'euro au dirham.
+          - Chaque opération a des messages d'entrée et de sortie définis.
+            
+     - Binding :
+
+          - BanqueServicePortBinding: Spécifie comment les opérations du service sont liées au protocole SOAP.
+               - Utilise le transport HTTP pour SOAP.
+               - Chaque opération utilise un style "document" et un "literal" encoding pour les messages.
+            
+     - Service :
+     
+          - BanqueWS: Définit le service web.
+          - BanqueServicePort: Définit le port du service, qui est lié à BanqueServicePortBinding.
+          - L'adresse du service est http://localhost:9090/.
    
-4. Teste des opérations du web service avec un outil comme SoapUI ou Oxygen :
+5. Teste des opérations du web service avec un outil comme SoapUI ou Oxygen :
    
      Après avoir installé l'outil SoapUI, nous avons créé un projet pour tester les opérations conversionEuroToDH avec différentes valeurs de montants, ainsi que 
     l'opération getCompte en fournissant des valeurs pour le code. Nous avons également consulté la liste des comptes.
@@ -67,7 +108,7 @@
    
       - Générer le Stub à partir du WSDL :
         
-          generation du proxy :
+          Génération du proxy :
 
           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/64e9b7b9-2be8-4c34-8119-42e85aa5bad2)
           
