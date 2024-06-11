@@ -119,17 +119,19 @@
 
          Dans le projet, nous avons créé un module intitulé : client-soap-java :
         
-           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/bb949d05-f5b0-47db-9e61-c5c66ccebfe1)
+           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/7324a8d8-a527-4ab4-b1d2-63a60d73fc23)
 
         
           Génération du proxy :
 
            ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/64e9b7b9-2be8-4c34-8119-42e85aa5bad2)
+           ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/bb949d05-f5b0-47db-9e61-c5c66ccebfe1)
           
       - Créer un client SOAP pour le web service
 
          ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/96cc9268-5eb0-4fc0-a2ba-6d62aa2cfb3c)
          ![image](https://github.com/SanaeHelen/Activit-Pratique-N-5---Web-services-SOAP-WSDL/assets/136022070/49a1e0ac-12a9-4cfa-84ed-571d0aadf1df)
+
 
 
 
